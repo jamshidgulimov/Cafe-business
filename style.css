@@ -1,0 +1,46 @@
+.alibek{
+    background-color: aqua;
+    color: red;
+    text-align: center;
+    font-size: 80px;
+}
+
+.botirbek{
+    
+    color: rgb(30, 30, 230);
+    font-size: 80px;
+    text-decoration: none;
+}
+
+.botirbek:hover{
+    color: red;
+    font-weight: bold;
+}
+
+.container{
+    background-color: rgb(142, 246, 113);
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 10px;
+    margin-bottom: 30px;
+}
+
+.hidden{
+    display: none;
+}
+
+.style1{
+    font-size: 30px;
+    color: red;
+}
+
+.card{
+    width: 180px;
+}
+
+img{
+  
+    width: 80%;
+    margin-left: 100px;
+   
+}
